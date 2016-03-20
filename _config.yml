@@ -1,0 +1,28 @@
+name: The Be Yusful Group
+favicon: null
+layout_spectrum: 0.07620191038586199
+typography_spectrum: 0.8926964413840324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1303638753015548
+  lightness: 0.5613031869288534
+  saturation: 0.17669874406419694
+  rhythmicContrast: 0.9973188803996891
+purpose: []
